@@ -27,7 +27,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp"
                 android:layout_toRightOf="@id/qcImage"
-                android:text="Judul"
+                android:text="Title"
                 android:textColor="#333"
                 android:textSize="17dp"
                 android:textStyle="bold" />
@@ -51,7 +51,7 @@
                 android:layout_below="@id/qcPengrajin"
                 android:layout_marginLeft="10dp"
                 android:layout_toRightOf="@id/qcImage"
-                android:text="18"
+                android:text="20"
                 android:textColor="#333"
                 android:textSize="15dp" />
 
